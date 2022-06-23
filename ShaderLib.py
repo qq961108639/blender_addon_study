@@ -131,6 +131,7 @@ class SHADER_OT_DIAMOND(bpy.types.Operator):
             "完成"
         }
 # 钻石材质结束
+# 明天开始
 
 
 def register():
